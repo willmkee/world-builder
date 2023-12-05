@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Rolling Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dice Rolling Game</h1>
+    <p id="diceRolls"></p>
+    <p id="sentence"></p>
+    <button onclick="rollDice()">Roll Again</button>
+
+    <script>
+        function rollDice() {
+            // Simulate rolling three six-sided dice
+            var rolls = [
+                Math.floor(Math.random() * 6) + 1,
+                Math.floor(Math.random() * 6) + 1,
+                Math.floor(Math.random() * 6) + 1
+            ];
+
+            // Display dice rolls
+            document.getElementById("diceRolls").textContent = "Dice Rolls: " + rolls.join(", ");
+
+            // Fetch and parse CSV file
+            fetch('world-events.csv')
+                .then(response => response.text())
+                .then(csvText => {
+                    var sentences = parseCSV(csvText);
+                    var sentence = findSentence(sentences, rolls);
+                    document.getElementById("sentence").textContent = "Sentence: " + sentence;
+                })
+                .catch(error => console.error('Error fetching CSV:', error));
+        }
+
+        function parseCSV(csvText) {
+            // Parse CSV text into an array of rows
+            var rows = csvText.split('\n');
+
+            // Extract sentences from the only column
+            var sentences = rows.map(row => row.trim());
+
+            return sentences;
+        }
+
+        function findSentence(sentences, rolls) {
+            // Replace this function with your logic to find the sentence based on dice rolls
+            // For simplicity, let's return a random sentence from the array
+            var randomIndex = Math.floor(Math.random() * sentences.length);
+            return sentences[randomIndex];
+        }
+    </script>
+</body>
+</html>
