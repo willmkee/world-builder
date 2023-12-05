@@ -76,7 +76,7 @@
             var index = sentences.findIndex(sentence => sentence.startsWith(number));
 
             // If a match is found, return the sentence; otherwise, return a placeholder
-            return index !== -1 ? sentences[index] : "No matching sentence found.";
+            return index !== -1 ? sentences[index].substring(4) : "No matching sentence found.";
         }
     </script>
 </body>
