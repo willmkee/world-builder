@@ -69,10 +69,14 @@
         }
 
         function findSentence(sentences, rolls) {
-            // Replace this function with your logic to find the sentence based on dice rolls
-            // For simplicity, let's return a random sentence from the array
-            var randomIndex = Math.floor(Math.random() * sentences.length);
-            return sentences[randomIndex];
+            // Construct the number from the dice rolls
+            var number = rolls.join("");
+
+            // Find the corresponding sentence
+            var index = sentences.findIndex(sentence => sentence.startsWith(number));
+
+            // If a match is found, return the sentence; otherwise, return a placeholder
+            return index !== -1 ? sentences[index] : "No matching sentence found.";
         }
     </script>
 </body>
