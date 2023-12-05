@@ -1,0 +1,216 @@
+111,"CIVIL PROTESTS: The citizens are unhappy, and not afraid to publicly show it. What demands do the citizens have? Does the leadership cave in or crack down? --A faction gains or loses power"
+112,"CIVIL UNREST: Violent, uncontrolled riots rage throughout the city. Chaos reigns, hopes are raised and crushed. What spark ignited this powderkeg? --Remove a resource or a landmark"
+113,"CIVIL WAR: Citizens take up arms and fight each other. What irreconcilable split in values or beliefs caused this? --Remove a district and a landmark or resource, a faction gains power"
+114,"THE CITY MILITARIZES: Soldiers, informants and the police control the streets. What outside threat or faction causes this? What kind of weapons are needed? --The leading faction gains power"
+115,"AN ARMY IS RAISED: Thousands of citizens are drafted, and trained to fight. Is the goal to conquer or to defend? How is this accomplished? Or financed? --Add a landmark or a resource"
+116,THE CITY DEMILITARIZES: Freedom does not need a standing army. Where does this trust in peace come from? Is it warranted? How are military resources repurposed? --The least powerful faction gains power
+121,"SKIRMISHES WITH NEARBY SETTLEMENTS: The neighboring cities get bolder, or did the city become the agressor? What are these skirmishes fought over? --Add a landmark(add an external faction)"
+122,"SKIRMISHES OVER RESOURCES: The control of a crucial resource leads to conflict, and even to a few battles. What is contested? What faction outside the city wants them? --Add or remove a resource (add an external faction)"
+123,"CRIMINALS MAKE TRAVEL DIFFICULT: Highwaymen, muggers and other brigands infest the surrounding lands. What drives them? --(Remove a resource)"
+124,CRIMINAL WARBANDS ROAM THE AREA: The desperate or the greedy band together to raid the land. What unites them? Are they paid by a rival city or power? --Remove a resource or a landmark
+125,CREATURES TERRORIZE THE LANDSCAPE: Venturing outside the city has gotten dangerous. What beasts are lurking there? What has them agitated? --(Add or remove something)
+126,CREATURES TERRORIZE THE CITY: What kind of monster is it? A scourge of hungry dogs or a giant dragon? What drives them into the city? --Remove something
+131,"WAR!: Thirty years of war or a hundred. This one just does not seem to end even though it's long since ran out of steam. Who's the enemy? Why can't teh city let go? --Remove a district, (add an external faction)"
+132,A WAR IS WON: Was it a drawn-out war or a terrifying strike? Against whom? How did the city win? And what spoils did it claim? --Add a landmark or a resource. 
+133,"A WAR IS LOST: By bravery or luck the enemy has won a war against the city. How does the city pay for this defeat? --Remove two elements, draw the scars of war "
+134,"A FOREIGN WAR SPILLS OVER: Someone else wages war but its effects can be felt here. A wave of refugees? Improved demand on the city’s forges? --(Add or remove something, Add an external faction) "
+135,A SIEGE IS ATTEMPTED: Turning a city into a prison is a time-honored tradition. Who besieged the city? And why? How was the siege broken? --Remove a resource or a landmark 
+136,"A SIEGE IS SUCCESSFULL: With starvation or trebuchets, the city falls. Is the city sacked and burned? Or is it claimed and now under new management? --Remove a resource or add a faction, it gains power "
+141,"AN ENEMY FORCE OCCUPIES THE CITY: Not all occupiers have to act savagely, though most do. Do these new rulers attempt to earn the citizens’ trust? --Add a faction, add a landmark "
+142,"A MILITARY COUP IS ATTEMPTED: A faction attempts to take power by force. Does it succeed? Is this an internal struggle or did an outside force sponsor this? --A faction gains power, another faction loses power "
+143,"ENEMY SABOTAGE: Enemy forces enter the city and destroy or damage a resource. Who sent them? And what is their agenda? --Remove a resource, (add an external faction) "
+144,"A SPY HAS STOLEN SECRETS: What where these secrets? What damage could be done to the city with such knowledge? Who holds it now? --(Remove something), (add an external faction) "
+145,A TRAITOR IS UNMASKED: Treason is often considered a high crime. Who was willing to risk this much? And what was their goal? How were they discovered? --A faction loses power 
+146,"A PEACE IS BROKERED: After a long, brutal war peace has been achieved. Who was the city struggling with? How do the citizens celebrate and remember this? --Add a landmark, (add a resource) "
+151,A TIME OF PEACE: Peace brings prosperity. The people are happy. How do they spend their new time of safety and leisure? Do they grow lazy or creative? --(Add a district) 
+152,AN EMPTY WARNING: Someone warns the city of a terrible danger that never comes to pass. Does the city react in fear? Or does it grow jaded? --(Add something) 
+153,"A HOSTAGE IS TAKEN: A faction has somehow managed to get hold of an important hostage, either from a rival within or outside the city. Who are they? Why are they valuable? --A faction gains power "
+154,A HOSTAGE IS LIBERATED: Did a brave raiding party liberate a beloved prince? Did a faction save its leader from the clutches of its opponents? --A faction gains power 
+155,CRIME IS ON THE RISE: Crime is the means of the greedy or the last resort of the desperate. What leads to this rise? Who do they work for? What crimes are perpetrated? --A faction gains power 
+156,GANGS CLAIM DISTRICTS: A crime syndicate or a gang has managed to gain control of at least one district. What links them to this place? Why aren’t they stopped? --Add a faction 
+161,AN IMPROVISED WALL IS BUILT: Hastily stacked and quickly assembled. Why did the city need this wall so suddenly? Who is left unprotected? Is it even effective? --Add a landmark
+162,"A MASSIVE WALL IS BUILT: Towers, gates, and massive fortifications are constructed to protect the city. Who is paying for this? Is this for prestige or out of fear? --Add a landmark, (a faction gains power) "
+163,"CITY DEFENSES ARE IMPROVED: Leaders invest in towers, moats or cannons. What real or imagined enemies are the justification for this? --(Add a landmark or a resource) "
+164,"CITY DEFENSES ARE NEGLECTED: Indifference, greed or stupidity lead to crumbling walls, rusting weaponry and untrained soldiers. Who’s to blame? Who might take advantage of this? --(Remove something) "
+165,"A BORDER IS FORTIFIED: Literal walls, border patrols or tarrifs and tolls. Is it a border inside or outside the city? Who is it protecting from? --(Add a landmark or a resource) "
+166,A BORDER IS BREACHED: Who breached it? What was this border? Was it a physical or a cultural one? --(Remove something) 
+211,"A NEW LEADER RISES TO POWER: A benevolent dictator? A brilliant orator? A fair king? A charismatic, honest leader of a political party? Beloved or feared? --Add a faction, it gains power "
+212,A METEORIC RISE: Someone rises to power. What deceit or duplicity led to this increase in status? Who gets left behind to stew in their jealousy? --A faction gains power 
+213,DEATH OF A BELOVED LEADER: Was the leader murdered by conspirators? Was it illness? Old age? How will the leader be remembered? --A faction loses or gains power 
+214,LEADERSHIP VACUUM: History rarely tolerates vacuums but this one lingers. Who or what’s missing? And why is there no replacement possible? --Remove a faction 
+215,"LEADERSHIP CHANGE: Does the city gain a new ruler? Is someone else claiming it? Or is this a dramatic change within a faction? --(Add a faction), a faction gains power "
+216,"THE CITY RISES IN PROMINENCE: It becomes a regional key city, or even its nations capital. Was this a clever political move or prompted by neccessity? --Add a resource or a faction gains power "
+221,ELECTIONS ARE HELD: Are the citizens invested in the campaign? Are the results surprising or was it all rigged to begin with? --A faction gains or loses power 
+222,SYSTEM OF GOVERNMENT IS CHANGED: Who caused this change? What is this new system? Was an old faction obliterated or did a new political block manifest? --Add or remove a faction 
+223,A GREAT SCANDAL: The people are shocked. And a little bit intrigued. What rules of decorum were violated? By whom? --A faction loses power 
+224,INSIDIOUS RUMORS: Do rumors hold shreds of truth? Can rumors breed hatred or fear? Who benefits? --A faction loses power 
+225,"DANGEROUS SECRETS UNCOVERED: Who kept the secrets, and why? Do the people care about moral failings or are they more interested in scandals? --A faction gains power "
+226,A COVER-UP FAILS: Sometimes truth simply cannot be contained. But what kind of secret could be this dangerous? --The leading faction loses power
+231,AN OUTSIDER UPSETS THE BALANCE: Who is this outsider? What are the outsider’s goals? Is the outsider rich? Can they promise power or abundance? --A faction gains or loses power 
+232,"INHERITENCE ISSUES: Settlements and individuals can inherit all sorts of things: castles, islands, curses, technologies... But who gets what? And does anyone dispute the claim? --Add something "
+233,QUESTIONABLE CLAIMS APPEAR: Only someone mad or desperate would bring forth a claim to the city’s rule this weak. Why do they still try? And who are they? --(Add or remove something) 
+234,"A STRONG CLAIM: Someone remote with a credible claim wants the city. A ruler’s bastard, a far away count. What makes the city valuable to them? --Add an external faction "
+235,CONTRADICTORY CLAIMS: Two parties claim ownership of the city pulling its fate in different directions. Is this resolved? Or does the city languish in legal ambiguity? --A faction gains or loses power 
+236,TREASON!: Someone betrays the city or its leaders. What drives them? Are they successful or does the city make an example of them? --A faction gains or loses power 
+241,"A NEW FACTION EMERGES: A sect, a political party, a guild. Why do they band together? What gives them power? And who supports them? --Add a faction, it gains power "
+242,A FACTION IN DECLINE: A faction become complacent or too bold and things went wrong. Why does power slip from their grasp? And what vultures are circling? --A faction loses power 
+243,A FACTION SEIZES POWER: Finally! After years of plotting or with a sudden strike the city has new rulers! What are their policies? Is this legitimate in the eyes of the people? --A faction gains power to become the leading faction 
+244,"A FACTION IS NO MORE: Sometimes even ideas can die, and with them the factions that were pushing them forward. What was the final nail in the coffin? --Remove a faction "
+245,AN IMPORTANT ALLIANCE FALLS APART: Is it an alliance of factions or an alliance within a faction? What was the alliance about? Could the city be threatened with a new war? --Split a faction in two 
+246,AN IMPORTANT ALLIANCE IS FORGED: Two factions permanently bond together. What is the goal of this alliance? Was it forged by peaceful means or by deceit? --Merge two factions 
+251,"INCOMPETENCE WREAKS HAVOC: A bureaucratic mess, criminal planning or the fatally stupid decision that sea-beasts would never attack red ships. How could this happen at all? Who benefits? --Remove a landmark or a resource "
+252,BUREAUCRACY INCREASES: Could a complex city ever function without bureaucracy? Does bureaucracy make reactions slower? Can administrative centres boost economies? --Add or remove a resource 
+253,DRASTIC CHANGES ENFORCED: Could a law or a regulation really change everyday life? Could something like alcohol ever be prohibited? Is it a public health matter? --(Add or remove something) 
+254,A GROUP IS STIGMATIZED: Why? By whom? Does the group actually exist or is the civic mind hunting witches? Do witches exist? Is this a trend from beyond the city? --A faction gains or loses power 
+255,"A RADICAL IDEOLOGY IS BORN: A call for freedom, a cry for segregation or, possibly, the desire to embrace the gospel of dark, alluring gods. What belief appears? Who espouses it? --(Add a faction), a faction gains power "
+256,"EFFECTIVE PROPAGANDA: A faction spreads their agenda via pamphlets, posters and rumors. What or who do they discredit? Why? Is an external power sowing dissent? --A faction gains power "
+261,"A PEACEFUL NEIGHBOR: It is nice to have new settlements nearby. Trade partners, military allies or just a friendly rivalry in sports. Who are they? What sets them apart? --Add an external faction or a resource "
+262,A USEFUL NEIGHBOR: Close contract to a nearby settlement is established. What makes them useful? Are they easy to exploit or just the right market for the city’s goods? --Add an external faction 
+263,AN INTIMIDATING NEIGHBOR: Is this a new village or a military outpost? What makes them so threatening? What are their plans? --Add an external faction 
+264,"A REVOLUTION SUCCEEDS: The system of power is upended. What was the espoused goal? Did parts of the old regime survive? What’s the new structure of power? --Remove a faction, a faction gains power, rename it "
+265,A REVOLUTION FAILS: The status quo remains untouched. What do the losers suffer? How are the heroes of the struggle immortalized? --A faction loses power 
+266,REDISTRIBUTION OF WEALTH: Fairness prevails. The democracy of consumption brings joy to the citizens. Was this enforced? How do the once wealthy react? --Add a district 
+311,
+312,
+313,
+314,
+315,
+316,
+321,
+322,
+323,
+324,
+325,
+326,
+331,
+332,
+333,
+334,
+335,
+336,
+341,
+342,
+343,
+344,
+345,
+346,
+351,
+352,
+353,
+354,
+355,
+356,
+361,
+362,
+363,
+364,
+365,
+366,
+411,
+412,
+413,
+414,
+415,
+416,
+421,
+422,
+423,
+424,
+425,
+426,
+431,
+432,
+433,
+434,
+435,
+436,
+441,
+442,
+443,
+444,
+445,
+446,
+451,
+452,
+453,
+454,
+455,
+456,
+461,
+462,
+463,
+464,
+465,
+466,
+511,
+512,
+513,
+514,
+515,
+516,
+521,
+522,
+523,
+524,
+525,
+526,
+531,
+532,
+533,
+534,
+535,
+536,
+541,
+542,
+543,
+544,
+545,
+546,
+551,
+552,
+553,
+554,
+555,
+556,
+561,
+562,
+563,
+564,
+565,
+566,
+611,
+612,
+613,
+614,
+615,
+616,
+621,
+622,
+623,
+624,
+625,
+626,
+631,
+632,
+633,
+634,
+635,
+636,
+641,
+642,
+643,
+644,
+645,
+646,
+651,
+652,
+653,
+654,
+655,
+656,
+661,
+662,
+663,
+664,
+665,
+666,
